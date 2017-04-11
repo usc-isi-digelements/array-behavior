@@ -1,0 +1,29 @@
+{
+  "name": "array-behavior",
+  "description": "A set of common utility functions that handle arrays.",
+  "version": "1.0.0",
+  "authors": [
+    "Next Century Corporation"
+  ],
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "keywords": [
+    "web-component",
+    "polymer"
+  ],
+  "main": "array-behavior.html",
+  "homepage": "https://github.com/DigElements/array-behavior/",
+  "ignore": [
+    "/.*",
+    "/test/"
+  ],
+  "dependencies": {
+    "lodash": "~4.17.2"
+  },
+  "devDependencies": {
+    "polymer": "Polymer/polymer#^1.7.0",
+    "web-component-tester": "^5.0.0"
+  },
+  "resolutions": {
+    "lodash": "~4.17.2"
+  }
+}
