@@ -17,7 +17,7 @@
     "/test/"
   ],
   "dependencies": {
-    "lodash-import": "DigElements/lodash-import#~1.0.0"
+    "lodash": "~4.17.2"
   },
   "devDependencies": {
     "polymer": "Polymer/polymer#^1.7.0",
