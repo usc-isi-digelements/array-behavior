@@ -1,7 +1,7 @@
 {
   "name": "array-behavior",
   "description": "A set of common utility functions that handle arrays.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "Next Century Corporation"
   ],
